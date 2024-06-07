@@ -13,7 +13,7 @@
 
 *{
     font-weight: 400;
-    
+
 }
 
 body{
@@ -31,3 +31,8 @@ body{
     font-size: 24px;
 }
 
+.conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+
+}

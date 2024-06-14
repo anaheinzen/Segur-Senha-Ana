@@ -51,6 +51,7 @@ border: none;
 color:var(--branco);
 font-size: 40px;
 font-family: var(--roboto-mono);
+width: 70%;
 }
 
 #campo-senha-focus{
@@ -60,4 +61,8 @@ font-family: var(--roboto-mono);
 .conteudo{
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.parametro{
+    
 }
